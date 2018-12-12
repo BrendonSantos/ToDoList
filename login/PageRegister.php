@@ -19,7 +19,7 @@
                 <div class="col-10 col-md-4 offset-md-4">
                     <div class="text-center mt-3"><h1 class="h2">ToDoList</h1></div>
                     <div class="card mb-3">
-                        <div class="card-header alert-success">Cadastrar</div>
+                        <div class="card-header alert-success">Novo Cadastro</div>
                         <form action="LoginController.php" method="POST" role="form" class="form-signin">
                             <div class="form-group">
                                 <input name="name" type="text" class="form-control" placeholder="Nome" required="required">
